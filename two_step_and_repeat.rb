@@ -56,5 +56,4 @@ def break_dance(steps)
       break
     end
   end
-  
 end
