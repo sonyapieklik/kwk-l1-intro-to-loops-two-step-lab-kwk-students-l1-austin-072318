@@ -32,7 +32,7 @@ def how_many_steps(steps)
   sleep(0.5)
 end
 
-def break_danc
+def break_dance
   steps=0
   loop do
     steps = steps + 1
