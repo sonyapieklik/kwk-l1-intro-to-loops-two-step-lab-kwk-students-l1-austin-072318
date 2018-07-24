@@ -47,3 +47,5 @@ def break_dance(steps)
     break
   else 
     steps = steps + 1
+  end
+end
