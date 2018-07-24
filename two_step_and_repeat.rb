@@ -27,7 +27,7 @@ def how_many_steps(steps)
     steps = steps + 1
     if steps%2 == 0
       puts "Left"
-    end
+    
     else 
       puts "Right"
     end
@@ -40,7 +40,7 @@ def break_dance(steps)
     steps = steps + 1
     if steps%2 == 0
       puts "Left"
-    end
+    
     else 
       puts "Right"
     end
