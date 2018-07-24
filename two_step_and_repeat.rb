@@ -12,6 +12,7 @@ def first_steps
 end
 
 def a_few_more_steps
+  puts "Left foot back"
   puts "Right foot back"
   puts "Right foot steps right and back"
   sleep(0.5)
