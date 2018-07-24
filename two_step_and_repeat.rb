@@ -34,6 +34,8 @@ def how_many_steps(steps)
     
     else 
       puts "Right"
+    if steps = 6
+      break
     end
   end
   sleep(0.5)
