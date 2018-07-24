@@ -41,6 +41,7 @@ def break_dance
     end
     if steps%2 != 0 
       puts "Right"
+    end
     sleep(0.5)
   if steps > 6
     break
