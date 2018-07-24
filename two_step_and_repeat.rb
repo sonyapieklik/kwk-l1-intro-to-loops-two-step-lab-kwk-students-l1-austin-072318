@@ -33,14 +33,12 @@ def how_many_steps(steps)
 end
 
 def break_dance(steps)
-  steps=0
-  if steps < 7
-    loop do
-     steps = steps + 1
-      if steps%2 == 0
-        puts "Left"
-     else 
-       puts "Right"
-    sleep(0.5)
-  break
+   steps=0
+  loop do
+    steps = steps + 1
+    if steps%2 == 0
+      puts "Left"
+    else 
+      puts "Right"
+  sleep(0.5)
 end
