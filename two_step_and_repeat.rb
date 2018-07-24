@@ -40,7 +40,8 @@ def break_dance
       puts "Left"
     else 
       puts "Right"
-  sleep(0.5)
+    sleep(0.5)
+  end
   if steps > 6
     break
   end
