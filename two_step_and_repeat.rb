@@ -43,5 +43,4 @@ def break_dance(steps)
        puts "Right"
     sleep(0.5)
   break
-  end
 end
